@@ -1,4 +1,5 @@
-## Hi!👋 My name is Yiyan and I an incoming second-year CS student at the University of Waterloo! As a keen learner who loves building products, I am constantly uploading what I'm up to on GitHub. Feel free to check out any of my projects or contact me at y84huang@uwaterloo.ca!
+## Hi!👋 My name is Yiyan!
+I am incoming second-year CS student at the University of Waterloo! As a keen learner who loves building products, I am constantly uploading what I'm up to on GitHub. Feel free to check out any of my projects or contact me at y84huang@uwaterloo.ca!
 
 <!--
 **yiyan023/yiyan023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
