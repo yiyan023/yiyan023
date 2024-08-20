@@ -1,8 +1,6 @@
 ## Hi!👋 My name is Yiyan!
 I am incoming second-year CS student at the University of Waterloo! As a keen learner, I am expanding my technical skills by solving problems and building awesome projects! Feel free to check out what I have been up to :)
 
-![image](https://github.com/user-attachments/assets/9f139976-651d-4b56-a0ce-85a2e8fb479e)
-
 - I’m currently working on [PlaySurfer](https://github.com/yiyan023/PlaySurfer), a social media app designed to help help athletes connect! As an avid badminton player, I wanted to make organization and networking more accessible for my fellow athletes! 🏸
 - I’m currently learning how to leverage computer science for effective problem solving using Neetcode 150 and more! I have covered dozens of data structures & algorithms including DFS, BFS, Floyd's Algorithm, and Greedy! 👩‍💻
 - I’m looking to collaborate on any large-scale products that aim to help make education and safety more accessible to others :). Some of the work I accomplished includes [YouWriter](https://github.com/yiyan023/YouWriter) & [TuneScriber](https://github.com/yiyan023/TuneScriber), which aim to increase note-taking efficiency for students and provide musical education to low-income families respectively! 🍎
